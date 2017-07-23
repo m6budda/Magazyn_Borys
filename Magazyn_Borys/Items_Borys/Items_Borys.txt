@@ -1,0 +1,48 @@
+Wa³ Cardana
+Elementy mechaniczne
+14
+10486
+Sprawne
+
+P³yta g³ówna
+Elementy elektroniczne
+21
+7513,29
+Sprawne
+
+Skrzynia biegów
+Elementy mechaniczne
+2
+1844,98
+Niesprawne
+
+Doniczka na kaktus
+Akcesoria ogrodowe
+19
+569,81
+Sprawne
+
+Termometr rtêciowy
+Akcesoria medyczne
+12
+158,4
+Sprawne
+
+Daewoo Tico
+Pojazdy samochodowe
+1
+4749
+Niesprawne
+
+C. Bobrowski - "Fizyka"
+Podrêczniki akademickie
+9
+359,91
+Sprawne
+
+Parasol ogrodowy
+Akcesoria ogrodowe
+16
+720
+Niesprawne
+ 

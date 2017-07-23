@@ -1,0 +1,10 @@
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\obj\Debug\Magazyn_Borys.csprojResolveAssemblyReference.cache
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\bin\Debug\Magazyn_Borys.exe.config
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\bin\Debug\Magazyn_Borys.exe
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\bin\Debug\Magazyn_Borys.pdb
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\obj\Debug\Magazyn_Borys.exe
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\obj\Debug\Magazyn_Borys.pdb
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\bin\Debug\Magazyn_Borys.exe.manifest
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\bin\Debug\Magazyn_Borys.application
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\obj\Debug\Magazyn_Borys.exe.manifest
+C:\Users\Ibrahim\Desktop\Piotr_Mazepa_Magazyn\Magazyn_Borys\Magazyn_Borys\obj\Debug\Magazyn_Borys.application
